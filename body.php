@@ -10,21 +10,21 @@
     <div class="carousel-inner">
 
       <div class="item active">
-        <img src="img/banner3.jpg" alt="Los Angeles" style="width:100%;">
+        <img src="img/banner00.jpg" alt="Los Angeles" style="width:100%  hight:60%;"  >
         
       </div>
 
       <div class="item">
-        <img src="img/banner2.jpg" style="width:100%;">
+        <img src="img/banner0.jpg" style="width:100%;">
         
       </div>
     
       <div class="item">
-        <img src="img/banner4.jpg" alt="New York" style="width:100%;">
+        <img src="img/banner00.jpg" alt="New York" style="width:100%;">
         
       </div>
       <div class="item">
-        <img src="img/banner1.jpg" alt="New York" style="width:100%;">
+        <img src="img/banner0.jpg" alt="New York" style="width:100%;">
         
       </div>
       <div class="item">
@@ -61,7 +61,7 @@
 					<div class="col-md-4 col-xs-6">
 						<a href="product.php?p=78"><div class="shop">
 							<div class="shop-img">
-								<img src="./img/shop01.png" alt="">
+								<img src="./img/laptop.jpg" alt="" width="500" height="300">
 							</div>
 							<div class="shop-body">
 								<h3>Laptop<br>Collection</h3>
@@ -75,7 +75,7 @@
 					<div class="col-md-4 col-xs-6">
 						<a href="product.php?p=72"><div class="shop">
 							<div class="shop-img">
-								<img src="./img/shop03.png" alt="">
+								<img src="./img/headset.jpg" alt="" width="500" height="300">  
 							</div>
 							<div class="shop-body">
 								<h3>Accessories<br>Collection</h3>
@@ -89,7 +89,7 @@
 					<div class="col-md-4 col-xs-6">
 						<a href="product.php?p=79"><div class="shop">
 							<div class="shop-img">
-								<img src="./img/shop02.png" alt="">
+								<img src="./img/camera.jpg" alt="" width="500" height="300">
 							</div>
 							<div class="shop-body">
 								<h3>Cameras<br>Collection</h3>
